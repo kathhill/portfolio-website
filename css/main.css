@@ -6,8 +6,7 @@ body, html {
 }
 
 body {
-  font-family: Roboto;
-  font-size: 1em;
+  font: normal 300 1em futura-pt, sans-serif;
   color: #164f84;
 }
 
